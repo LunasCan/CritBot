@@ -5,6 +5,7 @@
 - Custom commands using !addcommand / !delcommand
 - Proper Versioning
 - Update Warnings
+- added !help command for mods
 
 ### Fixed
 - Various code optimization
