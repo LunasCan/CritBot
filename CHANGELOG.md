@@ -5,10 +5,12 @@
 - Custom commands using !addcommand / !delcommand
 - Proper Versioning
 - Update Warnings
-- added !help command for mods
+- !help command for mods
+- Changelog display in console
 
 ### Fixed
 - Various code optimization
+- Various fallback changed
 
 ## [1.1.4] - 2024-12-21
 ### Added
