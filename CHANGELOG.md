@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.6] - 2024-12-26
+### Fixed
+- Fixed an issue with bypassed users no being properly bypassed.
+
 ## [1.1.5] - 2024-12-21
 ### Added
 - Custom commands using !addcommand / !delcommand
