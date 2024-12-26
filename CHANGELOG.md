@@ -2,7 +2,7 @@
 
 ## [1.1.6] - 2024-12-26
 ### Fixed
-- Fixed an issue with bypassed users no being properly bypassed.
+- Fixed an issue with bypassed users not being properly bypassed.
 
 ## [1.1.5] - 2024-12-21
 ### Added
